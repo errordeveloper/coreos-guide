@@ -31,11 +31,11 @@ orchestration platform. Allowing us to focus on developing Yoin-Vision.
 
 For Yoin-Vision computing cost is an important aspect, as we are busy funding
 our seed round. We have a [Microsoft
-Bizspark](http://www.microsoft.com/bizspark) subscription, offering $750,-i of 
-Microsoft Azure credits per month, divided to 5 accounts each with $150,- per
+Bizspark](http://www.microsoft.com/bizspark) subscription, offering $750 of 
+Microsoft Azure credits per month, divided to 5 accounts each with $150 per
 month. Our goal was to maximize the use of this credit for our high-available
 services (website, api, database). Second we use cheap dedicated hosting from
-[Hetzner](http://www.hetzner.de/en), giving $50,- machines with 8 cores, and
+[Hetzner](http://www.hetzner.de/en), giving $50 machines with 8 cores, and
 32GB RAM, that we will use for processing power.
 
 # Requirements
