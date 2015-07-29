@@ -86,7 +86,7 @@ The deployment steps are desribed in more detail in the following blog posts:
 
 ## Azure
 
-Is setting up the Azure environment, we use the 5 accounts from our
+In setting up the Azure environment, we use the 5 accounts from our
 [Microsoft Bizspark](http://www.microsoft.com/bizspark) subscription.
 Requesting a Bizspark account can take up to 2 weeks, we received ours in 3
 days after contact with the program manager of Bizspark Netherlands. You need
