@@ -73,7 +73,7 @@ scripts enables us to deploy our cluster more efficient. The scripts are written
 in Node.JS. The source of this deployment is hosted in my [Github
 repository](https://github.com/jongpieter/coreos-guide/blob/master/coreos-weave-kubernetes/).
 The source is based on the guide made by
-[Errordeveloper](https://github.com/GoogleCloudPlatform/kubernetes/tree/master/docs/getting-started-guides/coreos/azure)
+[Ilya Dmitrichenko (***@errordeveloper***)](https://github.com/GoogleCloudPlatform/kubernetes/tree/master/docs/getting-started-guides/coreos/azure)
 , on deploying Kubernetes and Weave to Coreos on Azure. 
 
 The deployment steps are desribed in more detail in the following blog posts:
