@@ -112,7 +112,7 @@ sudo apt-get install nodejs-legacy
 sudo apt-get install npm
 ```
 
-We recommend you to to globally install [Azure CLI
+We recommend you to globally install [Azure CLI
 XPLAT](https://github.com/Azure/azure-xplat-cli) by running
 
 ```bash
